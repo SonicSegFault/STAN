@@ -24,7 +24,7 @@ const Section1 = () => {
           className="card w-48 h-64 sm:w-40 sm:h-56 md:w-60 md:h-8
           0 bg-cover bg-center rounded-2xl relative"
           style={{
-            backgroundImage: `url(public/silder1.jpg)`,
+            backgroundImage: `url(/silder1.jpg)`,
           }}
         >
           {/* Text overlay */}
@@ -38,7 +38,7 @@ const Section1 = () => {
           htmlFor="card2"
           className="card w-48 h-64 sm:w-40 sm:h-56 md:w-60 md:h-80 bg-cover bg-center rounded-2xl relative"
           style={{
-            backgroundImage: `url(public/silder2.jpg)`,
+            backgroundImage: `url(/silder2.jpg)`,
           }}
         >
           {/* Text overlay */}
@@ -52,7 +52,7 @@ const Section1 = () => {
           htmlFor="card3"
           className="card w-48 h-64 sm:w-40 sm:h-56 md:w-60 md:h-80 bg-cover bg-center rounded-2xl relative"
           style={{
-            backgroundImage: `url(public/slider3.jpg)`,
+            backgroundImage: `url(/slider3.jpg)`,
           }}
         >
           {/* Text overlay */}
@@ -66,7 +66,7 @@ const Section1 = () => {
           htmlFor="card4"
           className="card w-48 h-64 sm:w-40 sm:h-56 md:w-60 md:h-80 bg-cover bg-center rounded-2xl relative"
           style={{
-            backgroundImage: `url(public/silder4.jpg)`,
+            backgroundImage: `url(/silder4.jpg)`,
           }}
         >
           {/* Text overlay */}

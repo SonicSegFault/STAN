@@ -19,7 +19,7 @@ export function PageHeader() {
       {/* Left side */}
       <div className="flex items-center md:ml-12 sm:ml-0">
         <img
-          src="public/stanlogonoremoved.jpg"
+          src="/stanlogonoremoved.jpg"
           alt="STAN Logo"
           className="h-16 md:h-20 rounded-full"
         />

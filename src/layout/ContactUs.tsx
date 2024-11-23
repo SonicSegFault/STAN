@@ -19,7 +19,7 @@ const ContactUs = () => {
         <br></br>
         <Reveal>
           <p className="text-gray-500 flex items-center">
-            <img src="public/locationlogo.png" className="h-10"/>
+            <img src="/locationlogo.png" className="h-10"/>
             Paropakar Marg, Bhimsenthan, Kathmandu MPC 20, Kathmandu, Nepal
           </p>
         </Reveal>

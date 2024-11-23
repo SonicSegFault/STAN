@@ -6,7 +6,7 @@ const Section0 = () => {
   return (
     <>
       <div className="mt-8 flex flex-col items-center justify-center space-x-4">
-        <img src="public/stanlogo.png" className="h-10" />
+        <img src="/stanlogo.png" className="h-10" />
         <Reveal>
           <p className="text-xl text-gray-500 mt-2 font-roboto">
             विज्ञान शिक्षक समाज नेपालका विभिन्न सूचनाहरू
@@ -25,7 +25,7 @@ const Section0 = () => {
           className="transition-transform duration-500 transform hover:scale-110 hover:shadow-xl h-full"
         >
           <ImageReveal>
-            <CardMedia sx={{ height: 140 }} image="public/connect.png" />
+            <CardMedia sx={{ height: 140 }} image="/connect.png" />
           </ImageReveal>
           <CardContent className="flex flex-col h-full">
             <Reveal>
@@ -47,7 +47,7 @@ const Section0 = () => {
           className="transition-transform duration-500 transform hover:scale-110 hover:shadow-xl h-full"
         >
           <ImageReveal>
-            <CardMedia sx={{ height: 140 }} image="public/development.png" />
+            <CardMedia sx={{ height: 140 }} image="/development.png" />
           </ImageReveal>
           <CardContent className="flex flex-col h-full">
             <Reveal>
@@ -71,7 +71,7 @@ const Section0 = () => {
           <ImageReveal>
             <CardMedia
               sx={{ height: 140 }}
-              image="public/research.png"
+              image="/research.png"
               className="object-contain"
             />
           </ImageReveal>
@@ -97,7 +97,7 @@ const Section0 = () => {
           <ImageReveal>
             <CardMedia
               sx={{ height: 140 }}
-              image="public/building.png"
+              image="/building.png"
               className="object-contain"
             />
           </ImageReveal>
@@ -123,7 +123,7 @@ const Section0 = () => {
           className="transition-transform duration-500 transform hover:scale-110 hover:shadow-xl h-full"
         >
           <ImageReveal>
-            <CardMedia sx={{ height: 140 }} image="public/connect.png" />
+            <CardMedia sx={{ height: 140 }} image="/connect.png" />
           </ImageReveal>
           <CardContent className="flex flex-col h-full">
             <Reveal>
@@ -145,7 +145,7 @@ const Section0 = () => {
           className="transition-transform duration-500 transform hover:scale-110 hover:shadow-xl h-full"
         >
           <ImageReveal>
-            <CardMedia sx={{ height: 140 }} image="public/development.png" />
+            <CardMedia sx={{ height: 140 }} image="/development.png" />
           </ImageReveal>
           <CardContent className="flex flex-col h-full">
             <Reveal>
